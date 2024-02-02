@@ -1,6 +1,5 @@
 # Add files via upload
 
-tangerine-banoffee-3ce4bd.netlify.app
 
 Quick start:
 
